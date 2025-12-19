@@ -20,17 +20,18 @@
 
 Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet.
 
+<br>
+
 ## 💻 Conhecimentos
----
-<section align="center">
+<section style="display: flex;">
   <div>
-### 🎖️ Principais
----    
+    <h3> 🎖️ Principais</h3>
+    <hr>
   </div>
 
   <div>
-### 📚 Estudando
----
+    <h3> 📚 Estudando</h3>
+    <hr>
   </div>
 </section>
 
@@ -42,14 +43,14 @@ Além disso, eu também sei:
 3. Dolor
 4. Sit Amet
 
-## 🧮 Estatísticas
----
-<section style="100% align="center">
+## 📌 Mais Informações
+<section style="100%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=⭐%20Linguagens%20Favoritas&title_color=f5f0fc&border_color=311782&text_color=f5f0fc&bg_color=311782aa" />  
   
-  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstupendoG&theme=dark" />
 </section>
 
-## 📫 Contatos
----
+<section style="100%" align="left">
+  [![Meu Gmail](https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail)](malito:rafagonpin317@gmail.com)
+</section>
 
