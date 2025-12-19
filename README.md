@@ -1,4 +1,6 @@
-<img style="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=451abd&text=Olá%20Mundo!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=130&color=451abd&text=Olá%20Mundo!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
+</div>
 
 <section style="100% align="center">
   <div>
