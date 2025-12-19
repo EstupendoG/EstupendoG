@@ -5,18 +5,18 @@
 <section style="100% align="center">
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=1000&color=6A38F7&vCenter=true&repeat=false&width=435&height=25&lines=Eu+sou+Rafael+Gon%C3%A7alves!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&repeat=false&width=435&height=25&lines=Eu+sou+Rafael+Gon%C3%A7alves!" alt="Typing SVG" />
     </a>
   </div>
 
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&color=F5F0FC&background=311782&vCenter=true&width=230&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&vCenter=true&color=6A38F7&width=230&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
     </a>
   </div>
 </section>
 
 
 <section style="100% align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20mais%20usadas&title_color=6A38F7FF&border_color=e2dfeb&text_color=201d2b&bg_color=f5f0fc" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20Favoritas&title_color=311782&border_color=e2dfeb&text_color=201d2b&bg_color=31178222" />  
 </section>
