@@ -18,5 +18,5 @@
 
 
 <section style="100% align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20Favoritas&title_color=311782&border_color=e2dfeb&text_color=201d2b&bg_color=31178222" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20Favoritas&title_color=311782&border_color=311782&text_color=f5f0fc&bg_color=31178233" />  
 </section>
