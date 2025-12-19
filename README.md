@@ -1,4 +1,4 @@
-<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=451abd&text=Olá%20Mundo!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
+<img align="left" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=451abd&text=Olá%20Mundo!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -12,12 +12,14 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20mais%20usadas&title_color=6A38F7FF&border_color=e2dfeb&text_color=201d2b&bg_color=f5f0fc" />  
-  </div>
-  
-  <div>
-    .
-  </div>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=Linguagens%20mais%20usadas&title_color=6A38F7FF&border_color=e2dfeb&text_color=201d2b&bg_color=f5f0fc" />  
+    </td>
+    <td align="center">
+      ...
+    </td>
+  </tr>
+</table>
