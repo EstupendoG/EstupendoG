@@ -23,25 +23,27 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <br>
 
 ## 💻 Conhecimentos
-<section style="display: flex;">
+<section>
   <div>
     <h3> 🎖️ Principais</h3>
+      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> </a>
     <hr>
   </div>
 
   <div>
     <h3> 📚 Estudando</h3>
+      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> </a>
     <hr>
   </div>
+  
+  <div>
+    <h3> 🌌 Outros Conhecimentos </h3>
+      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> </a>
+    <hr>
+  </div>
+
 </section>
 
-### 🌌 Outros Conhecimentos
----
-Além disso, eu também sei:
-1. Lorem
-2. Ipsum
-3. Dolor
-4. Sit Amet
 
 ## 📌 Mais Informações
 <section style="100%" align="center">
