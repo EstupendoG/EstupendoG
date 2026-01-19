@@ -24,11 +24,18 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&repeat=false&width=320&height=40&lines=Conhecimentos!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&center=true&repeat=false&width=200&height=40&lines=Conhecimentos" />
   </a>
 </div>
 <section>
   <div>
+    <img
+      src="https://api.iconify.design/mdi/medal.svg?color=white"
+      height="28"
+    />
+    <img
+      src="https://img.shields.io/badge/Principais-8b5cf6?style=for-the-badge"
+    />
     <h3> 🎖️ Principais</h3>
       <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> </a>
   </div>
