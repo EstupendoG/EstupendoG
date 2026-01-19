@@ -36,13 +36,13 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <section>
   <!-- Principais -->
   <section>
-    <div align="center">
+    <div>
+      <img
+        src="https://img.shields.io/badge/Conhecimentos-311681?style=for-the-badge"
+      />
       <img
         src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
         height="40"
-      />
-      <img
-        src="https://img.shields.io/badge/Principais-311681?style=for-the-badge"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
@@ -51,16 +51,36 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
   </section>
 
   <!-- Estudando -->
-  <div>
-    <h3> 📚 Estudando</h3>
-      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> </a>
-  </div>
+  <section>
+    <div>
+      <img
+        src="https://img.shields.io/badge/Estudando-311681?style=for-the-badge"
+      />
+      <img
+        src="https://api.iconify.design/line-md/loading-twotone-loop.svg?color=%23311681"
+        height="40"
+      />
+    </div>
+    <a href="https://skillicons.dev" target="_blank"> 
+      <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> 
+    </a>
+  </section>
   
   <!-- Outros  -->
-  <div>
-    <h3> 🌌 Outros Conhecimentos </h3>
-      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> </a>
-  </div>
+  <section>
+    <div>
+      <img
+        src="https://img.shields.io/badge/Outros-311681?style=for-the-badge"
+      />
+      <img
+        src="https://api.iconify.design/line-md/star-pulsating-filled-loop.svg?color=%23311681"
+        height="40"
+      />
+    </div>
+    <a href="https://skillicons.dev" target="_blank"> 
+      <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> 
+    </a>
+  </section>
 
 </section>
 
