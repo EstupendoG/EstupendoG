@@ -35,17 +35,20 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 </div>
 <section>
   <!-- Principais -->
-  <div>
-    <img
-      src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
-      height="28"
-    />
-    <img
-      src="https://img.shields.io/badge/Principais-8b5cf6?style=for-the-badge"
-    />
-    <h3> 🎖️ Conhecimentos </h3>
-      <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> </a>
-  </div>
+  <section>
+    <div align="center">
+      <img
+        src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
+        height="40"
+      />
+      <img
+        src="https://img.shields.io/badge/Principais-311681?style=for-the-badge"
+      />
+    </div>
+    <a href="https://skillicons.dev" target="_blank"> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> 
+    </a>
+  </section>
 
   <!-- Estudando -->
   <div>
