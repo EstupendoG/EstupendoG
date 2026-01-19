@@ -30,7 +30,7 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <section>
   <div>
     <img
-      src="https://api.iconify.design/mdi/medal.svg?color=white"
+      src="https://api.iconify.design/mdi/medal.svg?color=white&background=%238b5cf6"
       height="28"
     />
     <img
