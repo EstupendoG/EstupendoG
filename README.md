@@ -1,15 +1,19 @@
+<!-- HEADER -->
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=130&color=451abd&text=Olá%20Mundo!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
 </div>
 
+<!-- APRESENTAÇÃO -->
 <section style="100% align="center">
   <div>
+    <!-- Nome -->
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&center=true&repeat=false&width=320&height=40&lines=Eu+sou+Rafael+Gon%C3%A7alves!" alt="Typing SVG" />
     </a>
   </div>
 
   <div>
+    <!-- Texto Rápido -->
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&vCenter=true&weight=500&color=6A38F7&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
     </a>
@@ -18,33 +22,38 @@
 
 <br>
 
+<!-- Introdução -->
 Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet.
 
 <br>
 
+<!-- CONHECIMENTOS -->
 <div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&center=true&repeat=false&width=200&height=40&lines=Conhecimentos" />
   </a>
 </div>
 <section>
+  <!-- Principais -->
   <div>
     <img
-      src="https://api.iconify.design/mdi/medal.svg?color=white&background=%238b5cf6"
+      src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
       height="28"
     />
     <img
       src="https://img.shields.io/badge/Principais-8b5cf6?style=for-the-badge"
     />
-    <h3> 🎖️ Principais</h3>
+    <h3> 🎖️ Conhecimentos </h3>
       <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> </a>
   </div>
 
+  <!-- Estudando -->
   <div>
     <h3> 📚 Estudando</h3>
       <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> </a>
   </div>
   
+  <!-- Outros  -->
   <div>
     <h3> 🌌 Outros Conhecimentos </h3>
       <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> </a>
