@@ -33,11 +33,11 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
   <section>
     <div>
       <img
-        src="https://img.shields.io/badge/Conhecimentos-311681?style=for-the-badge"
-      />
-      <img
         src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
         width="30"
+      />
+      <img
+        src="https://img.shields.io/badge/Conhecimentos-311681?style=for-the-badge"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
@@ -50,11 +50,11 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
   <section>
     <div>
       <img
-        src="https://img.shields.io/badge/Estudando-311681?style=for-the-badge"
-      />
-      <img
         src="https://api.iconify.design/line-md/loading-twotone-loop.svg?color=%23311681"
         width="30"
+      />
+      <img
+        src="https://img.shields.io/badge/Estudando-311681?style=for-the-badge"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
@@ -67,11 +67,11 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
   <section>
     <div>
       <img
-        src="https://img.shields.io/badge/Outros-311681?style=for-the-badge"
-      />
-      <img
         src="https://api.iconify.design/line-md/star-pulsating-filled-loop.svg?color=%23311681"
         width="30"
+      />
+      <img
+        src="https://img.shields.io/badge/Outros-311681?style=for-the-badge"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
@@ -86,7 +86,7 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 ## 📌 Mais Informações
 <section style="100%" align="center">
   <!-- Linguagens mais usadas  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&border_color=311581&text_color=FFFFFF&bg_color=242938" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938" />  
   
   <!-- Streak  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff" />
