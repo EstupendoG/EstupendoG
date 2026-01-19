@@ -28,11 +28,6 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <br>
 
 <!-- CONHECIMENTOS -->
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&center=true&repeat=false&width=200&height=40&lines=Conhecimentos" />
-  </a>
-</div>
 <section>
   <!-- Principais -->
   <section>
@@ -42,13 +37,14 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
-        height="40"
+        width="100"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> 
     </a>
   </section>
+  <br>
 
   <!-- Estudando -->
   <section>
@@ -58,13 +54,14 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/loading-twotone-loop.svg?color=%23311681"
-        height="40"
+        width="100"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> 
     </a>
   </section>
+  <br>
   
   <!-- Outros  -->
   <section>
@@ -74,13 +71,14 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/star-pulsating-filled-loop.svg?color=%23311681"
-        height="40"
+        width="100"
       />
     </div>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> 
     </a>
   </section>
+  <br>
 
 </section>
 
