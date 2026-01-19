@@ -37,9 +37,10 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
-        width="100"
+        width="40"
       />
     </div>
+    <hr>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> 
     </a>
@@ -54,9 +55,10 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/loading-twotone-loop.svg?color=%23311681"
-        width="100"
+        width="40"
       />
     </div>
+    <hr>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> 
     </a>
@@ -71,9 +73,10 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
       />
       <img
         src="https://api.iconify.design/line-md/star-pulsating-filled-loop.svg?color=%23311681"
-        width="100"
+        width="40"
       />
     </div>
+    <hr>
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> 
     </a>
