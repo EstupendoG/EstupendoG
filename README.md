@@ -87,7 +87,7 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <section style="100%" align="center">
   <!-- Linguagens mais usadas  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938&hide_border=true" />  
-  
+  <br>
   <!-- Streak  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&&hide_border=true" />
 </section>
