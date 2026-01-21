@@ -4,7 +4,7 @@
 </div>
 
 <!-- APRESENTAÇÃO -->
-<section style="100% align="center">
+<div style="100% align="center">
   <div>
     <!-- Nome -->
     <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&vCenter=true&weight=500&color=6A38F7&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
     </a>
   </div>
-</section>
+</div>
 
 <br>
 
@@ -30,7 +30,7 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 <!-- CONHECIMENTOS -->
 <section>
   <!-- Principais -->
-  <section>
+  <div>
     <div>
       <img
         src="https://img.shields.io/badge/Conhecimentos-311681?style=for-the-badge"
@@ -43,11 +43,11 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> 
     </a>
-  </section>
+  </div>
   <br>
 
   <!-- Estudando -->
-  <section>
+  <div>
     <div>
       <img
         src="https://img.shields.io/badge/Estudando-311681?style=for-the-badge"
@@ -60,11 +60,11 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> 
     </a>
-  </section>
+  </div>
   <br>
   
   <!-- Outros  -->
-  <section>
+  <div>
     <div>
       <img
         src="https://img.shields.io/badge/Outros-311681?style=for-the-badge"
@@ -77,22 +77,21 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
     <a href="https://skillicons.dev" target="_blank"> 
       <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> 
     </a>
-  </section>
+  </div>
   <br>
 
-</section>
+</div>
 
 
 ## 📌 Mais Informações
-<section style="100%" align="center">
+<div align="center">
   <!-- Linguagens mais usadas  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938&hide_border=true" />  
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938&hide_border=true" height="300" />  
   <!-- Streak  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&&hide_border=true" />
-</section>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&hide_border=true" height="300" />
+</div>
 
-<section style="100%" align="left">
+<div style="100%" align="left">
   [![Meu Gmail](https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail)](malito:rafagonpin317@gmail.com)
-</section>
+</div>
 
