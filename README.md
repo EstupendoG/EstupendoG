@@ -23,61 +23,27 @@
 <br>
 
 <!-- Introdução -->
-```
-Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit ametLorem Ipsum dolor sit amet.
+```javascript
+  const 
 ```
 <br>
 
-<!-- CONHECIMENTOS -->
-<section>
-  <!-- Principais -->
+<!-- STACK -->
   <div>
     <div>
       <img
-        src="https://img.shields.io/badge/Conhecimentos-311681?style=for-the-badge"
+        src="https://img.shields.io/badge/Stacks-311681?style=for-the-badge"
       />
       <img
-        src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
+        src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%0f0"
         width="30"
       />
     </div>
-    <a href="https://skillicons.dev" target="_blank"> 
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql" /> 
-    </a>
-  </div>
-  <br>
-
-  <!-- Estudando -->
-  <div>
-    <div>
-      <img
-        src="https://img.shields.io/badge/Estudando-311681?style=for-the-badge"
-      />
-      <img
-        src="https://api.iconify.design/line-md/loading-twotone-loop.svg?color=%23311681"
-        width="30"
-      />
+    <div align="center">
+      <a href="https://skillicons.dev" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql,prisma,postgresql,express,next,bootstrap,figma,vscode,notion,vercel" /> 
+      </a>
     </div>
-    <a href="https://skillicons.dev" target="_blank"> 
-      <img src="https://skillicons.dev/icons?i=sass,prisma,postgresql,express,next" /> 
-    </a>
-  </div>
-  <br>
-  
-  <!-- Outros  -->
-  <div>
-    <div>
-      <img
-        src="https://img.shields.io/badge/Outros-311681?style=for-the-badge"
-      />
-      <img
-        src="https://api.iconify.design/line-md/star-pulsating-filled-loop.svg?color=%23311681"
-        width="30"
-      />
-    </div>
-    <a href="https://skillicons.dev" target="_blank"> 
-      <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,notion,vercel" /> 
-    </a>
   </div>
   <br>
 
