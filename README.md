@@ -15,7 +15,7 @@
   <div>
     <!-- Texto Rápido -->
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&vCenter=true&weight=500&color=0f0&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=2500&vCenter=true&weight=500&color=6A38F7&height=25&lines=Desenvolvedor+Web;HTML+e+CSS;JavaScript+e+TypeScript;React+e+Vercel;Metodologia+Scrum" alt="Typing SVG"/>
     </a>
   </div>
 </div>
@@ -35,17 +35,15 @@
         src="https://img.shields.io/badge/Stacks-311681?style=for-the-badge"
       />
       <img
-        src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%0f0"
+        src="https://api.iconify.design/line-md/cog-filled-loop.svg?color=%23311681"
         width="30"
       />
     </div>
-    <div align="center">
-      <a href="https://skillicons.dev" target="_blank"> 
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,mysql,prisma,postgresql,express,next,bootstrap,figma,vscode,notion,vercel" /> 
-      </a>
-    </div>
+    <a href="https://skillicons.dev" target="_blank"> 
+      <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,ts,mysql,prisma,postgresql,git,html,css,bootstrap,figma,vscode,notion,next,vercel&perline=9" /> 
+    </a>
   </div>
-  <br>
+<br>
 
 </div>
 
@@ -58,6 +56,7 @@
   <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideNums=fff&sideLabels=0f0&hide_border=true&card_width=420" height=180 />
 </div>
 
+<!-- CONTATO -->
 <div style="100%" align="center">
   
   <a href="mailto:rafagonpin317@gmail.com">
