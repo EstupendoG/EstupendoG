@@ -86,9 +86,9 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 ## 📌 Mais Informações
 <div align="center">
   <!-- Estattísticas  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EstupendoG&show_icons=true&&custom_title=%20Estupendo%27s%20Stats&title_color=6135e6&icon_color=0f0&text_color=ffffff&bg_color=242938&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstupendoG&show_icons=true&&custom_title=%20Estupendo%27s%20Stats&title_color=6135e6&icon_color=0f0&text_color=abc4ab&bg_color=242938&hide_border=true" />
   <!-- Streak  -->
-  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideNums=fff&sideLabels=0f0&hide_border=true" />
 </div>
 
 <div style="100%" align="left">
