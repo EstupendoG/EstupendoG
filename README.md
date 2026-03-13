@@ -8,7 +8,7 @@
   <div>
     <!-- Nome -->
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=1000&color=F5F0FC&background=311782&vCenter=true&center=true&repeat=false&width=320&height=40&lines=Eu+sou+Rafael+Gon%C3%A7alves!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=1000&color=0f0&background=311782&vCenter=true&center=true&repeat=false&width=320&height=40&lines=Eu+sou+Rafael+Gon%C3%A7alves!" alt="Typing SVG" />
     </a>
   </div>
 
@@ -86,9 +86,9 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 ## 📌 Mais Informações
 <div align="center">
   <!-- Estattísticas  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EstupendoG&show_icons=true&&custom_title=%20Estupendo%27s%20Stats&title_color=6135e6&icon_color=0f0&text_color=abc4ab&bg_color=242938&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstupendoG&show_icons=true&&custom_title=%20Estupendo%27s%20Stats&title_color=6135e6&icon_color=0f0&text_color=fff&bg_color=242938&hide_border=true&card_width=420" height=180 />
   <!-- Streak  -->
-  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideNums=fff&sideLabels=0f0&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideNums=fff&sideLabels=0f0&hide_border=true&card_width=420" height=180 />
 </div>
 
 <div style="100%" align="left">
