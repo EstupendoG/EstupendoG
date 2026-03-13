@@ -86,12 +86,18 @@ Olá! Eu me chamo Rafael e lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 ## 📌 Mais Informações
 <div align="center">
   <!-- Linguagens mais usadas  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938&hide_border=true" height="300" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstupendoG&layout=compact&custom_title=%E2%AD%90%20Linguagens%20Favoritas&title_color=FFFFFF&text_color=FFFFFF&bg_color=242938&hide_border=true" />  
   <!-- Streak  -->
-  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&hide_border=true" height="300" />
+  <img src="https://streak-stats.demolab.com/?user=EstupendoG&theme=dark&ring=6135e6&fire=6135e6&currStreakLabel=6135e6&background=242938&sideLabels=ffffff&hide_border=true" />
 </div>
 
 <div style="100%" align="left">
-  [![Meu Gmail](https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail)](mailto:rafagonpin317@gmail.com)
+  
+  <a href="mailto:rafagonpin317@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail">
+  </a>
+  <a href="www.linkedin.com/in/rafaelstu" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6A38F7?style=for-the-badge&logo=Linkedin">
+  </a>
 </div>
 
