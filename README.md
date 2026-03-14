@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=130&color=451abd&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=130&color=451abd&text=Hello%20World!&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
 </div>
 
 <!-- APRESENTAÇÃO -->
@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
 </div>
 
@@ -60,7 +60,7 @@
     />
   </div>
   
-  <div align="center">
+  <div>
     <!-- Stats  -->
     <img src="https://github-readme-stats.vercel.app/api?username=EstupendoG&show_icons=true&&custom_title=%20Estupendo%27s%20Stats&title_color=6135e6&icon_color=0f0&text_color=fff&bg_color=242938&hide_border=true&card_width=420" height=180 />
     <!-- Streak  -->
@@ -68,11 +68,13 @@
   </div>
 </div>
 
+<br><br>
+
 <!-- CONTATO -->
 <div>
   <div>
     <img
-      src="https://img.shields.io/badge/Me%20Contate-311681?style=for-the-badge"
+      src="https://img.shields.io/badge/Contatos-311681?style=for-the-badge"
     />
     <img
       src="https://api.iconify.design/line-md/phone-filled-loop.svg?color=%23311681"
@@ -80,7 +82,7 @@
     />
   </div>
   
-  <div style="100%" align="center">
+  <div>
     <!-- Email -->
     <a href="mailto:rafagonpin317@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail">
