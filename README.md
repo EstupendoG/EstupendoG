@@ -24,7 +24,13 @@
 
 <!-- Introdução -->
 ```javascript
-  const 
+    const estupendog = new WebDeveloper()
+
+    estupendog.goal = ['designer', 'fullstack', 'graduation', 'freelancer']
+
+    while(estupendog.skill !== Infinity) {
+        estupendog.study()
+    }
 ```
 <br>
 
@@ -44,7 +50,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 </div>
 
@@ -68,7 +74,7 @@
   </div>
 </div>
 
-<br><br>
+<br>
 
 <!-- CONTATO -->
 <div>
@@ -85,17 +91,17 @@
   <div>
     <!-- Email -->
     <a href="mailto:rafagonpin317@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-6A38F7?style=for-the-badge&logoColor=F5F0FC&logo=gmail">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-242938?style=for-the-badge&logoColor=F5F0FC&logo=gmail" />
     </a>
     <!-- Linkedin -->
     <a href="www.linkedin.com/in/rafaelstu" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6A38F7?style=for-the-badge&logo=Linkedin">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=Linkedin" />
     </a>
   </div>
 </div>
 
 <!-- FOOTER -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=451abd&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=451abd&fontColor=f5f0fc&fontAlignY=30&fontSize=30&animation=twinkling&fontAlign=15" />
 </div>
 
